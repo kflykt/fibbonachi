@@ -1,4 +1,4 @@
-# Fibbonachi
+# Fibonachi
 
 Calculates fibbonachi sequence with positive integers. Written with python 3.9
 
